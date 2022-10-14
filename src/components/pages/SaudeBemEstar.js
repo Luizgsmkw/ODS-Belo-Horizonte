@@ -14,6 +14,7 @@ const SaudeBemEstar = () => {
     number3='3)'
     title3='Rede de Atenção Psicossocial de Belo Horizonte (RAPS-BH) / Política de Saúde Mental em BH    '
     text3=' - A Política de Saúde Mental de Belo Horizonte tem como objetivo promover a saúde mental da população e cuidar dos que sofrem por problemas mentais. Caminhamos na sustentação de uma política humanizada de cuidado, voltada às pessoas em sofrimento mental, privilegiando o tratamento em liberdade, a singularidade, a conquista da cidadania e a inserção social, ofertando cuidado em saúde mental a partir da abordagem multiprofissional e integrada, em ações de prevenção e promoção da saúde em rede. Nos diversos dispositivos da Rede de Atenção Psicossocial de BH, são atendidas pessoas em sofrimento mental, uso prejudicial de álcool e outras drogas, situações de abuso e vulnerabilidade variadas, sejam crianças, adolescentes ou adultos. Os locais para atendimento e acompanhamento e as modalidades de tratamento são diversos e serão acionados conforme o projeto terapêutico individual.' 
+    buttonStyle='#4C9F38'
     />
   )
 }

@@ -23,7 +23,7 @@ export const Div = styled.div `
     left: 25%;
     background-color: white;
     padding-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 60px;
     border-radius: 1px;
     @media(max-width: 1250px) {
         width: 60%;
@@ -72,4 +72,15 @@ export const P = styled.p `
 export const Span = styled.span `
     font-weight: bolder;
 
+`
+
+export const Button = styled.button `
+   position: absolute;
+   left: 33%;
+   width: 200px;
+   border: none;
+   padding: 10px;
+   border-radius: 8px;
+   cursor: pointer;
+   color: white
 `

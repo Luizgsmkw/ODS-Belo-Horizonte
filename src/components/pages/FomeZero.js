@@ -17,6 +17,7 @@ const FomeZero = () => {
     number4='4)'
     title4='Fortalecimento da Comercialização Direta da Agricultura Urbana e Familiar e Apoio ao Abastecimento'
     text4=' - Operacionalização do Programa de Aquisição de Alimentos da Agricultura Familiar-PAA, feiras Livres, realização de Feiras gastronômicas culturais – Feira Modelo, comercialização Direto de Produtores da região metropolitana de BH - Direto da Roça, comercialização de Alimentos Orgânicos Direto do Produtor – Feira de Orgânicos, monitoramento às Feiras da Capital, programa Abastecer - Alimentos a Baixo Custo, implantação e Manutenção de Circuitos Curtos de Comercialização e Consumo da Agricultura Urbana, central da Agricultura Familiar e Banco de Alimentos'
+    buttonStyle='#E5B735'
     />
   )
 }

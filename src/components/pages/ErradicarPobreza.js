@@ -14,6 +14,7 @@ const ErradicarPobreza = () => {
     number3='3)'
     title3='A Secretaria Municipal de Assistência Social, Segurança Alimentar e Cidadania (SMASAC)'
     text3=' - tem como missão promover a assistência social, a segurança alimentar e nutricional e os direitos de cidadania da população de Belo Horizonte por meio da gestão e da execução de políticas públicas fundamentadas em participação social, intersetorialidade, dignidade, sustentabilidade, equidade e diversidade, contribuindo para a integralidade da proteção social, a redução das desigualdades e a universalização dos direitos.' 
+    buttonStyle="rgb(229, 36, 59)"
     />
   )
 }

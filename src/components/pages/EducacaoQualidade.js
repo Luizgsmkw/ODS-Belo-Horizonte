@@ -14,6 +14,7 @@ const EducacaoQualidade = () => {
     number3='3)'
     title3='APPIA: POLÍTICA PEDAGÓGICA DA RME/BH   '
     text3=' - O Projeto “APPIA - Um Olhar para a Infância” transformou-se em uma política pública estruturante da Secretaria Municipal de Educação, no contexto das políticas de  expansão e consolidação da Educação Infantil na Rede Municipal de Educação em Belo Horizonte, no período de 2017 a 2019. Nesse contexto, a proposta  assumiu a perspectiva de integração entre as etapas de escolarização, – Educação Infantil e Ensino Fundamental – considerando as possibilidades de convívio, num mesmo espaço físico escolar, de crianças dos 4 aos 8 anos e os desafios advindos da implementação de uma nova perspectiva de organização de trabalho, envolvendo três dimensões: pedagógica, programática e política.¹' 
+    buttonStyle='#C51A2D'
     />
   )
 }
