@@ -1,10 +1,12 @@
 import React from 'react'
 import ods2 from '../img/ods2-1300x241.png'
 import OdsGeral from '../odsGeral/OdsGeral'
+import ods2Mobile from '../img/ods2-mobi.png'
 const FomeZero = () => {
   return (
     <OdsGeral 
-    imagem={ods2} 
+    imagem={ods2}
+    imagemMobile={ods2Mobile} 
     number1='1)'
     title1='Gestão dos Restaurantes e Refeitórios Populares'
     text1=' - Modernização, manutenção e fornecimento de refeições subsidiadas em restaurantes e refeitórios populares'

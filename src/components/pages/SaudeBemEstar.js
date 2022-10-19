@@ -1,10 +1,12 @@
 import React from 'react'
 import OdsGeral from '../odsGeral/OdsGeral'
 import ods3 from '../img/ods3-1500x281.webp'
+import ods3Mobile from '../img/6-New-Project-1.png'
 const SaudeBemEstar = () => {
   return (
     <OdsGeral 
     imagem={ods3} 
+    imagemMobile={ods3Mobile} 
     number1='1)'
     title1='SOLUÇÃO INTEGRADA DE GESTÃO HOSPITALAR, AMBULATORIAL E DE REGULAÇÃO (SIGRAH)'
     text1=' - O SIGRAH é uma solução desenvolvida para oferecer suporte à gestão e à integração da atenção à saúde na rede SUS-BH. Esta ferramenta vai proporcionar o prontuário eletrônico único do cidadão em todos os pontos da rede ambulatorial, hospitalar e de urgência. A tecnologia promove qualificação da assistência à saúde do cidadão, atualização e inovação dos processos, além da criação de um complexo regulador interligado, envolvendo rede própria, prestadores contratados e os 170 municípios polos que solicitam consultas, exames e internações no SUS-BH.'

@@ -1,10 +1,12 @@
 import React from 'react'
 import OdsGeral from '../odsGeral/OdsGeral'
 import ods4 from '../img/ods4-1500x282.webp'
+import ods4Mobile from '../img/ods-04-objetivo-desenvolvimento-sustentavel-inovasocial.png'
 const EducacaoQualidade = () => {
   return (
     <OdsGeral 
     imagem={ods4} 
+    imagemMobile={ods4Mobile}
     number1='1)'
     title1='Política Municipal de Promoção da Igualdade Racial na Educação)'
     text1=' - A política educacional atua em consonância com as diretrizes e princípios estabelecidos pela Política Municipal de Promoção da Igualdade Racial (Lei Nº 9934/2010). Na educação, essa política se concretiza pela implementação da Lei Nº 10.639/2003, do Plano Nacional de Implementação das Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana, da Lei. Nº 11.645/2008, do Estatuto da Igualdade Racial, dos Planos Municipais de Educação e Promoção da Igualdade Racial e normativas afins.'

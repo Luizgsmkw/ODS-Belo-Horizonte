@@ -1,10 +1,12 @@
 import React from 'react'
 import OdsGeral from '../odsGeral/OdsGeral'
 import ods1 from '../img/ods1-1300x245.png'
+import ods1Mobile from '../img/ods1-mobi.png'
 const ErradicarPobreza = () => {
   return (
     <OdsGeral 
     imagem={ods1} 
+    imagemMobile={ods1Mobile}
     number1='1)'
     title1='A Proteção Social Básica (PSB)'
     text1=' - tem como objetivo prevenir situações de risco por meio do desenvolvimento de potencialidades e aquisições e, o fortalecimento de vínculos familiares e comunitários. É destinada à população que se encontra em situação de vulnerabilidade social decorrente da pobreza, privação (ausência de renda, precário ou nulo acesso aos serviços públicos, dentre outros) e/ou fragilização de vínculos afetivos – relacionais e de pertencimento social (discriminações etárias, étnicas, de gênero ou por deficiências, dentre outras).'
